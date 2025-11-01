@@ -106,7 +106,7 @@ Our mission: **Empower individuals to transact, build, and grow in a decentraliz
 
 ## 📊 GitHub Stats
 
-![CryptoAIJedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptoAIJedi&show_icons=true&theme=radical)
+![CryptoAIJedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptoAI-Jedi&show_icons=true&theme=radical)
 
 ---
 
