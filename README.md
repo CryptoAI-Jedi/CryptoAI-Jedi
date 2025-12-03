@@ -104,14 +104,8 @@ Our mission: **Empower individuals to transact, build, and grow in a decentraliz
 
 ---
 
-## 📊 GitHub Stats
-
-![CryptoAIJedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptoAI-Jedi&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Let's Collaborate  
-Are you a Solana developer, Web3 builder, or AI innovator? Let's shape the future of decentralized commerce and intelligent systems together. Whether you're interested in:
+Are you a blockchain developer, Web3 builder, or AI innovator? Let's shape the future of decentralized commerce and intelligent systems together. Whether you're interested in:
 - Contributing to the **Solana Escrow Marketplace** (Rust/Anchor, frontend, arbitration mechanisms)
 - Building **AI agents** for blockchain automation
 - Exploring **DAO governance** and reputation systems
