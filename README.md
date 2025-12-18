@@ -80,4 +80,4 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 </div>
 
 ---
-*Built with ❤️ for the Solana ecosystem. Last updated: Dec 2025*
+*Built with ❤️ for blockchain, AI & securing the Solana ecosystem. Last updated: Dec 2025*
