@@ -68,7 +68,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 
 ## 🤝 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-@CryptoAIJedi-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptoAIJedi)
-[![Twitter](https://img.shields.io/badge/Twitter-@CryptoAI-Jedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoAIJedi)
+[![Twitter](https://img.shields.io/badge/Twitter-@CryptoAIJedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoAIJedi)
 
 **Shoot me a message about Solana security roles or collab on hardening dApps!**
 
