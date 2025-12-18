@@ -24,7 +24,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 - **Experience**: Datacenter management for crypto mining, Linux/Bash/Python scripting, lapsed CompTIA Sec+/A+/Net+, finance risk management
 - **Mission**: Making Solana the most secure proof-of-stake L1 by auditing and hardening real-world programs
 
-**Open to remote opportunities in Tier 2/3 Technical Support, Operations Risk Management, Solana security, Web3 auditing.**
+**Open to remote opportunities in Tier 2/3 Technical Support, Operations Risk Management, Solana Security, Web3 Auditing.**
 
 ## ✨ Featured Projects
 
