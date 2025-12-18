@@ -28,7 +28,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 
 ## ✨ Featured Projects
 
-### 🚀 Solana Escrow Marketplace
+### Solana Escrow Marketplace
 **Secure, decentralized escrow contracts on Solana blockchain**
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/solana-escrow-marketplace)
@@ -36,7 +36,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 - Built with Rust + Anchor framework
 - Frontend integration ready
 
-### 🤖 AI Blockchain Automation Agency
+### AI Blockchain Automation Agency
 **AI agents automating blockchain operations and DeFi strategies**
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/ai-blockchain-automation-agency)
@@ -44,6 +44,9 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 - Autonomous AI agents for blockchain tasks
 - Multi-chain support (Solana primary)
 - Real-time monitoring and execution
+
+### HIRO Memecoin Project
+**Champion of decentralization, freedom and privacy**
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/HIRO)
 - $HIRO — the people’s cyber-samurai. Solana memecoin and cyberpunk community. 
