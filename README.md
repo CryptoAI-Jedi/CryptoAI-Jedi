@@ -7,8 +7,8 @@
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Solana](https://img.shields.io/badge/Solana-00D4B1?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
 [![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logoColor=white)](https://www.anchor-lang.com/)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://github.com/CryptoAI-Jedi/CryptoAI-Jedi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/CryptoAI-Jedi/CryptoAI-Jedi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CryptoAI-Jedi&theme=radical)](https://github.com/CryptoAI-Jedi/CryptoAI-Jedi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoAI-Jedi&layout=compact&theme=radical)](https://github.com/CryptoAI-Jedi/CryptoAI-Jedi)
 
 </div>
 
