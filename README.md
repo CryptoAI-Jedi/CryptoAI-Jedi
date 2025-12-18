@@ -17,7 +17,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 
 - 25+ years IT: CompTIA A+/Net+/Sec+, ITIL v3 
 - Finance: Futures & Options Brokerage, Price Risk Management (8+ years)  
-- Crypto: Mining ops, DeFi since 2018, node operator
+- Crypto: Mining ops since 2022, DeFi and node operator since 2021
 
 - **Core Focus**: Smart contract security, PDA mitigation, CPI guardrails, and token program audits.
 - **Tech Stack**: Rust, Anchor, Solana CLI, SPL Token Program, Metaplex, Web3.js, TypeScript, GitHub Actions for CI/CD
