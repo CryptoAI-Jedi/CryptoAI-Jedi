@@ -67,8 +67,8 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 - Active in Solana security audits via [Solana Program Library](https://github.com/solana-labs/solana-program-library) and [program-examples](https://github.com/solana-developers/program-examples)
 
 ## 🤝 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-@BTCtobefree-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BTCtobefree)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoAIJedi)
+[![Telegram](https://img.shields.io/badge/Telegram-@CryptoAIJedi-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptoAIJedi)
+[![Twitter](https://img.shields.io/badge/Twitter-@CryptoAI-Jedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoAIJedi)
 
 **Shoot me a message about Solana security roles or collab on hardening dApps!**
 
