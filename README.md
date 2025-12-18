@@ -24,7 +24,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 - **Experience**: Datacenter management for crypto mining, Linux/Bash/Python scripting, lapsed CompTIA Sec+/A+/Net+, finance risk management
 - **Mission**: Making Solana the most secure proof-of-stake L1 by auditing and hardening real-world programs
 
-**Open to remote opportunities in tier 2/3 technical support, operations risk management, Solana security, Web3 auditing.**
+**Open to remote opportunities in Tier 2/3 Technical Support, Operations Risk Management, Solana security, Web3 auditing.**
 
 ## ✨ Featured Projects
 
@@ -73,7 +73,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 [![Telegram](https://img.shields.io/badge/Telegram-@CryptoAIJedi-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptoAIJedi)
 [![Twitter](https://img.shields.io/badge/Twitter-@CryptoAIJedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoAIJedi)
 
-**Shoot me a message about Solana security roles or collab on hardening dApps!**
+**Ping me about any job roles that may suit me or let's collab on hardening dApps!**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CryptoAI-Jedi&style=flat-square&color=blue" alt="Profile Views" />
