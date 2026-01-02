@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4B1&center=true&vCenter=true&width=435&lines=Solana+Blockchain+Security+Engineer;Rust+%26+Anchor+Specialist;Securing+High-Throughput+dApps;Building+Secure+Solana+Programs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4B1&center=true&vCenter=true&width=435&lines=Solana+Blockchain+Security+Engineer;Building+Secure+Solana+Programs" alt="Typing SVG" />
 </div>
 
 <div align="center">
