@@ -12,7 +12,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 Aspiring **Solana Blockchain Security Engineer** with experience in securing high-throughput dApps on Solana. Building production-grade programs like Solana Escrow Marketplaces and AI-driven blockchain automation tools.
 
 - 25+ years IT: CompTIA A+/Net+/Sec+, ITIL v3 
@@ -26,7 +26,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 
 **Open to remote opportunities in Tier 2/3 Technical Support, Operations Risk Management, Solana Security, Web3 Auditing.**
 
-## ✨ Featured Projects
+## Featured Projects
 
 ### Solana Escrow Marketplace
 **Secure, decentralized escrow contracts on Solana blockchain**
@@ -54,7 +54,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 
 **Coming Soon: Solana Node Monitor & Security Dashboard** – Real-time validator health, anomaly detection, and audit alerts.
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 | Category | Technologies |
 |----------|--------------|
 | **Blockchain** | Solana, Anchor, SPL Tokens, Metaplex, Token Extensions (CPI Guard, Transfer Fees, Metadata) |
@@ -63,7 +63,7 @@ Aspiring **Solana Blockchain Security Engineer** with experience in securing hig
 | **DevOps** | Solana CLI, GitHub Actions, Docker, Linux SysAdmin |
 | **Frontend** | React, Next.js, Web3.js, Wallet Adapters |
 
-## 📚 Learning & Certifications (In Progress)
+## Learning & Certifications (In Progress)
 - [ ] CompTIA Security+ Renewal
 - [ ] Google Cybersecurity Professional Certificate (Coursera)
 - [ ] Certified Blockchain Security Expert (Blockchain Council)
