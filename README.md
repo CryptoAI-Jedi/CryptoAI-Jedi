@@ -54,7 +54,7 @@
 
 ## Learning & Certifications
 - Expired: CompTIA Sec+/A+/Net+ (Sec+ renewal in progress).
-- Recent: Google IT Support/SQL (Coursera badges).
+- Recent: SQL upskilling (SQLbolt).
 - Active: Solana audits via [program-examples](https://github.com/solana-developers/program-examples).
 
 ## 🤝 Connect
