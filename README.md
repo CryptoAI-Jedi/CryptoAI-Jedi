@@ -60,7 +60,7 @@
 
 - Expired: CompTIA Sec+/A+/Net+ (Sec+ renewal in progress).
 - Recent: SQL upskilling (SQLbolt).
-- Active: Solana audits via [program-examples](https://github.com/solana-developers/program-examples).
+- Active: Solana audits via [![Program Examples](https://img.shields.io/badge/Program-Examples-00D4B1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solana-developers/program-examples).
 
 ## 🤝 Connect
 [![Telegram](https://img.shields.io/badge/Telegram-@CryptoAIJedi-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptoAIJedi)
