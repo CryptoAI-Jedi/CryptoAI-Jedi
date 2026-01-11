@@ -53,6 +53,11 @@
 | **Risk/Finance** | Futures Hedging, Compliance, Uptime Optimization |
 
 ## Learning & Certifications
+- <a href="https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me">
+  <img src="https://img.shields.io/badge/Postman%20API%20Fundamentals-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Fundamentals Student Expert Badge">
+</a>
+
+
 - Expired: CompTIA Sec+/A+/Net+ (Sec+ renewal in progress).
 - Recent: SQL upskilling (SQLbolt).
 - Active: Solana audits via [program-examples](https://github.com/solana-developers/program-examples).
