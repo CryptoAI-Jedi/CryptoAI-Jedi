@@ -15,7 +15,7 @@
 ## About Me
 **Tier II/III Tech Support & Crypto Ops Leader** -> 94% FCR using tools like Bomgar, PowerShell, Bash scripts with 5+ yrs datacenter/mining ops (2K+ ASICs, 98% uptime), finance price risk mgmt, and Solana security upskilling. Proven remote troubleshooting for MSPs/enterprises, now targeting fintech/crypto support.
 
-- **Background**: Datacenter Operations & Tech Lead (2022-Present), Tier II Support (2018-20), Property Mgmt (2010-2012), Futures Broker/Price Risk Mgr (2001-09).
+- **Background**: Datacenter Ops Mgr & Lead Tech (2022-Present), Tier II Support (2018-20), Property Mgmt (2010-2012), Futures Broker/Price Risk Mgr (2001-09).
 - **Crypto**: Mining ops, active in crypto since 2018 - DeFi & node operator since 2021; currently building Solana dApps.
 - **Core Focus**: API troubleshooting, log/tx analysis, ops risk, Solana audits.
 - **Open to**: Remote Tier 2/3 Tech Support, Ops Risk Mgmt, Solana Security, Web3 Auditing.
