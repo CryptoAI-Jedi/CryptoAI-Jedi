@@ -67,7 +67,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@CryptoAIJedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoAIJedi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  <!-- Add your LI -->
 
-**Remote opportunities? Collab on APIs/Solana? Ping me!**
+**Remote opportunities? Collab on Solana Projects? Ping me!**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CryptoAI-Jedi&style=flat-square&color=blue" alt="Profile Views" />
