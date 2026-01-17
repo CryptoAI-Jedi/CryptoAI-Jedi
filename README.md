@@ -44,7 +44,7 @@
 ### AI Blockchain Automation Agency
 **Side business: AI automation & blockchain solutions for healthcare industry pain-points.**
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/ai-blockchain-automation-agency)
-- Addressing inefficiencies in healthcare through AI agents & blockchain infrastructure
+- Addressing inefficiencies in healthcare through AI automation & blockchain infrastructure
 - Status: In development
 
 ### Solana Escrow Marketplace
