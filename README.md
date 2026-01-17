@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Postman%20API%20Fundamentals-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Fundamentals Student Expert Badge">
 </a>
 
-- **CompTIA Trifecta** (A+, Network+, Security+) — Earned ~2021 (expired, Sec+ renewal planned)
+- **CompTIA Trifecta** (A+, Network+, Security+) — Earned 2017-2018 (expired, Sec+ renewal planned)
 - **Active**: SQL for data/log analysis, Grafana/monitoring tools
 
 ## 🤝 Connect
