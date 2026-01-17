@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4B1&center=true&vCenter=true&width=500&lines=Crypto+Ops+%26+Tech+Support+Specialist;Tier+II%2FIII+Support+%7C+Datacenter+%26+Mining+Ops;Building+Toward+Web3+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4B1&center=true&vCenter=true&width=600&lines=Crypto+Ops+%26+Tech+Support+Specialist;Tier+II%2FIII+Support+%7C+Datacenter+%26+Mining+Ops;Building+Toward+Web3+Infrastructure" alt="Typing SVG" />
 </div>
 
 <div align="center">
