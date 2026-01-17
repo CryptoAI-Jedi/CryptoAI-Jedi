@@ -13,12 +13,13 @@
 </div>
 
 ## About Me
-**Tier II/III Tech Support & Crypto Operations Specialist** with 5+ years managing datacenter infrastructure (2,000+ ASICs, 98% uptime) and a background in finance/risk management. Node operator since 2021 (Bitcoin & Monero—self-built from scratch). Active Solana ecosystem user. Currently upskilling toward Web3 infrastructure & support roles.
+**Tier II/III Tech Support & Crypto Operations Specialist** with 5+ years managing datacenter infrastructure (2,000+ ASICs, 98% uptime) and a background in futures trading & risk management. Node operator since 2021 (Bitcoin & Monero—self-built from scratch). Active Solana ecosystem user. Currently upskilling toward Web3 infrastructure & support roles.
 
-- **Professional**: Lead Datacenter Tech & Ops Manager (2022–Present), Tier II Support (2018–20), Futures Broker & Risk Manager (2001–09)
-- **Crypto Native**: Mining ops, node operations, daily DeFi/staking/trading activity since 2018
-- **Current Focus**: API troubleshooting, SQL for log/transaction analysis, monitoring tools (Grafana/ELK)
-- **Seeking**: Remote Tier II/III Tech Support, Crypto Ops, Web3 Infrastructure roles
+- **Technical**: Lead Datacenter Tech & Ops Manager, Tier II/III Support, Linux sysadmin
+- **Finance**: Futures & Options Broker, Price Risk Management
+- **Crypto Native**: Mining ops, node operations, daily DeFi/staking/trading since 2018
+- **Current Focus**: API troubleshooting, SQL for log/transaction analysis, monitoring tools
+- **Seeking**: Remote Tier II/III Tech Support, Crypto/Fintech Ops, Web3 Infrastructure roles
 
 ## Core Skills
 | Category | Technologies |
@@ -28,7 +29,7 @@
 | **API Testing** | Postman (Certified), REST APIs, RPC debugging |
 | **Infrastructure** | Datacenter ops, ASIC fleet management, cooling/power optimization, Linux sysadmin |
 | **Crypto/Blockchain** | Node operations (BTC/XMR), Solana ecosystem user, DeFi, staking, wallet management |
-| **Risk & Compliance** | Futures hedging, operational risk, uptime optimization |
+| **Risk & Finance** | Futures/options trading, price risk management, hedging strategies, compliance |
 
 ## Currently Learning
 | Skill | Progress | Goal |
@@ -38,18 +39,18 @@
 | **Rust/Anchor** | Basics | Solana program development (long-term) |
 | **Solana CLI** | Familiar | Deeper integration for Web3 support roles |
 
-## Projects (In Progress)
+## Projects
+
+### AI Blockchain Automation Agency
+**Side business: AI automation & blockchain solutions for healthcare industry pain-points.**
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/ai-blockchain-automation-agency)
+- Addressing inefficiencies in healthcare through AI agents & blockchain infrastructure
+- Status: In development
 
 ### Solana Escrow Marketplace
 **Learning project: Rust/Anchor escrow dApp on Solana testnet.**
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/solana-escrow-marketplace)
 - Building to understand Solana program architecture & security patterns
-- Status: Early development
-
-### AI Blockchain Automation Agency
-**Exploring AI agents for blockchain operations & monitoring.**
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/ai-blockchain-automation-agency)
-- Concept: Automated monitoring & execution for DeFi
 - Status: Early development
 
 ## Certifications & Learning
@@ -63,13 +64,12 @@
 ## 🤝 Connect
 [![Telegram](https://img.shields.io/badge/Telegram-@CryptoAIJedi-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptoAIJedi)
 [![Twitter](https://img.shields.io/badge/Twitter-@CryptoAIJedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoAIJedi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-**Open to remote opportunities in crypto/Web3 tech support & infrastructure. Let's connect!**
+**Open to remote opportunities in crypto/fintech tech support & infrastructure. Let's connect!**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CryptoAI-Jedi&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
-*Crypto ops professional building toward Web3 infrastructure. Last updated: Jan 2026*
+*Crypto ops professional with finance background. Last updated: Jan 2026*
