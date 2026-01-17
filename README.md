@@ -29,7 +29,7 @@
 | **API Testing** | Postman (Certified), REST APIs, RPC debugging |
 | **Infrastructure** | Datacenter ops, ASIC fleet management, cooling/power optimization, Linux sysadmin |
 | **Crypto/Blockchain** | Node operations (BTC/XMR), Solana ecosystem user, DeFi, staking, wallet management |
-| **Risk & Finance** | Futures/options trading, price risk management, hedging strategies, compliance |
+| **Risk & Finance** | Futures/options broking & trading, price risk management, hedging strategies, compliance |
 
 ## Currently Learning
 | Skill | Progress | Goal |
