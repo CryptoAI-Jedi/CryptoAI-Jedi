@@ -13,7 +13,7 @@
 </div>
 
 ## About Me
-**Tier II/III Tech Support & Crypto Operations Specialist** with 5+ years managing datacenter infrastructure (2,000+ ASICs, 98% uptime) and a background in futures trading & risk management. Node operator since 2021 (Bitcoin & Monero—self-built from scratch). Active Solana ecosystem user. Currently upskilling toward Web3 infrastructure & support roles.
+**Tier II/III Tech Support & Crypto Operations Specialist** with 5+ years managing datacenter infrastructure (2,000+ ASICs, 98% uptime) and a background in futures trading & risk management. Node operator since 2021 (Bitcoin & Monero—self-built from scratch). Native crypto user (Bitcoin Class of 2018). Currently upskilling toward Web3 infrastructure & support roles.
 
 - **Technical**: Lead Datacenter Tech & Ops Manager, Tier II/III Support, Linux sysadmin
 - **Finance**: Futures & Options Broker, Price Risk Management
