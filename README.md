@@ -28,16 +28,15 @@
 | **Scripting & Automation** | PowerShell, Bash, log analysis scripts |
 | **API Testing** | Postman (Certified), REST APIs, RPC debugging |
 | **Infrastructure** | Datacenter ops, ASIC fleet management, cooling/power optimization, Linux sysadmin |
-| **Crypto/Blockchain** | Node operations (BTC/XMR), Solana ecosystem user, DeFi, staking, wallet management |
+| **Crypto/Blockchain** | Node operations (BTC & XMR), multi-blockchain ecosystem user, DeFi, staking, wallet management |
 | **Risk & Finance** | Futures/options broking & trading, price risk management, hedging strategies, compliance |
 
 ## Currently Learning
 | Skill | Progress | Goal |
 |-------|----------|------|
-| **SQL** | In Progress (SQLBolt) | Transaction/log analysis, troubleshooting queries |
+| **SQL** | In Progress (SQL for Data Analysis) | Transaction/log analysis, troubleshooting queries |
 | **Monitoring Tools** | Next Up | Grafana, ELK Stack, alerting dashboards |
-| **Rust/Anchor** | Basics | Solana program development (long-term) |
-| **Solana CLI** | Familiar | Deeper integration for Web3 support roles |
+| **Rust/Anchor/Solana CLI** | Basics | Solana program development (long-term) |
 
 ## Projects
 
@@ -58,8 +57,8 @@
   <img src="https://img.shields.io/badge/Postman%20API%20Fundamentals-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Fundamentals Student Expert Badge">
 </a>
 
-- **CompTIA Trifecta** (A+, Network+, Security+) — Earned 2017-2018 (expired, Sec+ renewal planned)
-- **Active**: SQL for data/log analysis, Grafana/monitoring tools
+- **CompTIA Trifecta** (A+, Network+, Security+) — Earned 2018 (expired, Sec+ renewal planned)
+- **Active**: SQL for data/log analysis, Grafana/ELK stack
 
 ## 🤝 Connect
 [![Telegram](https://img.shields.io/badge/Telegram-@CryptoAIJedi-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptoAIJedi)
