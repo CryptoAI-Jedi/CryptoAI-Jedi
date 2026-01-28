@@ -41,14 +41,16 @@
 ## Projects
 
 ### AI Blockchain Automation Agency
-**Side business: AI automation & blockchain solutions for healthcare industry pain-points.**
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/ai-blockchain-automation-agency)
+
+**Side business: AI automation & blockchain solutions for healthcare industry pain-points.**
 - Addressing inefficiencies in healthcare through AI automation & blockchain infrastructure
 - Status: In development
 
 ### Solana Escrow Marketplace
-**Learning project: Rust/Anchor escrow dApp on Solana testnet.**
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/solana-escrow-marketplace)
+
+**Learning project: Rust/Anchor escrow dApp on Solana testnet.**
 - Building to understand Solana program architecture & security patterns
 - Status: Early development
 
