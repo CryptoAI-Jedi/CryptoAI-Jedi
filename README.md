@@ -21,7 +21,7 @@ Looking for: Remote Tech Support II/III roles in blockchain, crypto, fintech, in
 
 ## What I've Learned
 
-**From node operations:** Troubleshooting RPC failures taught me to read logs systematically and correlate errors across multiple services. I documented common failure modes and built monitoring scripts to catch issues before downtime.
+**From node operations:** Troubleshooting RPC failures taught me to read logs systematically and correlate errors across services. Currently developing monitoring scripts to automate health checks and catch issues before downtime.
 
 **From datacenter work:** Managing thousands of ASIC units means everything fails eventually. I've learned to prioritize tasks based upon impact, use various monitoring systems, and build runbooks for common issues.
 
@@ -29,11 +29,11 @@ Looking for: Remote Tech Support II/III roles in blockchain, crypto, fintech, in
 
 ## Certifications
 
-- [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me) (2026)  
-- Former ESET Technical Support Agent (kernel-level security experience)  
-- Finance background: Futures & Options Merchant (former Series 3), Commodities Trader, Price Risk Management
-- CompTIA Trifecta (A+, Network+, Security+): Earned in 2018 (currently expired)
+- [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me) (2026)
 - Currently learning SQL for data analysis, Python for advanced scripting, Grafana/Prometheus for monitoring
+- CompTIA Trifecta (A+, Network+, Security+): Earned in 2018 (currently expired)
+- Finance background: Futures & Options Merchant (former Series 3)
+
 
 ## Get in Touch
 
