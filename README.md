@@ -1,76 +1,42 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4B1&center=true&vCenter=true&width=600&lines=Crypto+Ops+%26+Tech+Support+Specialist;Tier+II%2FIII+Support+%7C+Datacenter+%26+Mining+Ops;Building+Toward+Web3+Infrastructure" alt="Typing SVG" />
-</div>
+# Hey, it's CryptoAI Jedi
 
-<div align="center">
-  
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Solana](https://img.shields.io/badge/Solana-00D4B1?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org/)
+**Tech Support Specialist & Operations Manager** building toward Web3 infrastructure roles. 5+ years datacenter operations, node operator since 2021, blockchain user since 2018.
 
-</div>
+Currently: Operations Manager for ASIC mining hosting company (~2000 units)  
+Looking for: Remote Tech Support II/III roles in blockchain, crypto, fintech, infrastructure or cybersecurity
 
-## About Me
-**Tier II/III Tech Support & Crypto Operations Specialist** with 5+ years managing datacenter infrastructure and a background in futures trading & risk management. Native blockchain user since 2018. Node operator since 2021 (Bitcoin & Monero, self-built from scratch). Currently upskilling toward Web3 infrastructure & support roles.
+## What I Work With
 
-- **Technical**: Lead Datacenter Tech & Ops Manager, Tier II/III Support, Linux sysadmin
-- **Finance**: Futures & Options Broker, Price Risk Management
-- **Crypto Native**: Mining ops, node operations, daily DeFi/staking/trading since 2018
-- **Current Focus**: API troubleshooting, SQL for log/transaction analysis, monitoring tools
-- **Seeking**: Remote Tier II/III Tech Support, Crypto/Fintech Ops, Web3 Infrastructure roles
+**Support & Troubleshooting:** Tier II/III escalations, Zendesk/Jira, 94% FCR  
+**Infrastructure:** Linux sysadmin, datacenter ops, fleet management  
+**Scripting:** PowerShell, Bash, log analysis automation  
+**Blockchain:** Node operations (Bitcoin & Monero), DeFi protocols, wallet troubleshooting  
+**Currently Learning:** SQL (transaction/log analysis), Python, Grafana/Prometheus
 
-## Core Skills
-| Category | Technologies |
-|----------|-------------|
-| **Tech Support** | Tier II/III (Bomgar, remote troubleshooting), Zendesk/Jira, 94% FCR, escalation workflows |
-| **Scripting & Automation** | PowerShell, Bash, log analysis scripts |
-| **API Testing** | Postman (Certified), REST APIs, RPC debugging |
-| **Infrastructure** | Datacenter ops, ASIC fleet management, cooling/power optimization, Linux sysadmin |
-| **Crypto/Blockchain** | Node operations (BTC & XMR), multi-blockchain ecosystem user, DeFi, staking, wallet management |
-| **Risk & Finance** | Futures/options broking & trading, price risk management, hedging strategies, compliance |
+## Recent Projects
 
-## Currently Learning
-| Skill | Progress | Goal |
-|-------|----------|------|
-| **SQL** | In Progress (SQL for Data Analysis) | Transaction/log analysis, troubleshooting queries |
-| **Monitoring Tools** | Next Up | Grafana, ELK Stack, alerting dashboards |
-| **Rust/Anchor/Solana CLI** | Basics | Solana program development (long-term) |
+**[Solana Escrow Marketplace](https://github.com/CryptoAI-Jedi/solana-escrow-marketplace)** - Learning project building an escrow dApp on Solana testnet using Rust/Anchor to understand program architecture and security patterns. Currently implementing buyer-seller escrow logic with manual dispute resolution.
 
-## Projects
+**[AI Blockchain Automation Agency](https://github.com/CryptoAI-Jedi/ai-blockchain-automation-agency)** - Side business building AI automation and blockchain solutions for healthcare inefficiencies. Early stage development.
 
-### AI Blockchain Automation Agency
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/ai-blockchain-automation-agency)
+## What I've Learned
 
-**Side business: AI automation & blockchain solutions for healthcare industry pain-points.**
-- Addressing inefficiencies in healthcare through AI automation & blockchain infrastructure
-- Status: In development
+**From node operations:** Troubleshooting RPC failures taught me to read logs systematically and correlate errors across multiple services. I documented common failure modes and built monitoring scripts to catch issues before downtime.
 
-### Solana Escrow Marketplace
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoAI-Jedi/solana-escrow-marketplace)
+**From datacenter work:** Managing thousands of ASIC units means everything fails eventually. I've learned to prioritize tasks based upon impact, use various monitoring systems, and build runbooks for common issues.
 
-**Learning project: Rust/Anchor escrow dApp on Solana testnet.**
-- Building to understand Solana program architecture & security patterns
-- Status: Early development
+**From crypto since 2018:** Regular use of DeFi, staking, and multi-chain wallets gives me real user context & deep familiarity with onchain flows. I understand the pain points customers face when troubleshooting transaction failures, stuck deposits, or RPC timeouts.
 
-## Certifications & Learning
-<a href="https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me">
-  <img src="https://img.shields.io/badge/Postman%20API%20Fundamentals-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Fundamentals Student Expert Badge">
-</a>
+## Certifications
 
-- **CompTIA Trifecta** (A+, Network+, Security+) — Earned 2018 (expired, Sec+ renewal planned)
-- **Active**: SQL for data/log analysis, Grafana/ELK stack
+- [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me) (2026)  
+- Former ESET Technical Support Agent (kernel-level security experience)  
+- Finance background: Futures & Options Merchant (former Series 3), Commodities Trader, Price Risk Management
+- CompTIA Trifecta (A+, Network+, Security+): Earned in 2018 (currently expired)
+- Currently learning SQL for data analysis, Python for advanced scripting, Grafana/Prometheus for monitoring
 
-## 🤝 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-@CryptoAIJedi-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptoAIJedi)
-[![Twitter](https://img.shields.io/badge/Twitter-@CryptoAIJedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoAIJedi)
+## Get in Touch
 
-**Open to remote opportunities in crypto/fintech tech support & infrastructure. Let's connect!**
+[Telegram: @CryptoAIJedi](https://t.me/CryptoAIJedi) · [Twitter: @CryptoAIJedi](https://twitter.com/CryptoAIJedi)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CryptoAI-Jedi&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
----
-*Crypto ops professional with finance background. Last updated: Jan 2026*
+**Open to remote opportunities** — Let's talk if you need someone who understands both the tech stack and the user experience in crypto/Web3/cybersecurity.
