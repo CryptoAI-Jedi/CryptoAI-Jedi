@@ -30,6 +30,7 @@ Looking for: Remote Tech Support II/III roles in blockchain, crypto, fintech, in
 ## Certifications
 
 - [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me) (2026)
+- [APISEC Fundamentals 2025](https://www.credly.com/badges/495e4c4b-f7ea-4c62-9064-dc918d5e8171/public_url) (2026)
 - Currently learning SQL for data analysis, Python for advanced scripting, Grafana/Prometheus for monitoring
 - CompTIA Trifecta (A+, Network+, Security+): Earned in 2018 (currently expired)
 - Finance background: Futures & Options Merchant (former Series 3)
