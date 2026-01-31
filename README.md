@@ -25,7 +25,7 @@ Looking for: Remote Tech Support II/III or Operations Analyst roles in blockchai
 
 **From datacenter work:** Managing thousands of ASIC units means everything fails eventually. I've learned to prioritize tasks based upon impact, use various monitoring systems, and build runbooks for common issues.
 
-**From crypto since 2018:** Regular use of DeFi, staking, and multi-chain wallets gives me real user context & deep familiarity with onchain flows. I understand the pain points customers face when troubleshooting transaction failures, stuck deposits, or RPC timeouts.
+**From crypto since 2018:** Regular use of DeFi, staking, multi-chain wallets & wallet security gives me real user context & deep familiarity with onchain flows. I understand the pain points customers face when troubleshooting transaction failures, stuck deposits, or RPC timeouts, along with the importance of operational security.
 
 ## Certifications
 
