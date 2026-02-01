@@ -27,6 +27,8 @@ Looking for: Remote Tech Support II/III or Operations Analyst roles in blockchai
 
 **From crypto since 2018:** Regular use of DeFi, staking, multi-chain wallets & wallet security gives me real user context & deep familiarity with onchain flows. I understand the pain points customers face when troubleshooting transaction failures, stuck deposits, or RPC timeouts, along with the importance of operational security.
 
+**From Tradfi work:** Price risk management principles, servicing enterprise clients in a fast-paced, high stakes environment, along with effective communicaton while under extreme pressure. 
+
 ## Certifications
 
 - [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me) (2026) | API Fundamentals
