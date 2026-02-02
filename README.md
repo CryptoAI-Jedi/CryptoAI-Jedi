@@ -3,7 +3,7 @@
 **Tech Support Specialist & Operations Manager** building toward Web3 infrastructure roles. 5+ years datacenter operations, node operator since 2021, blockchain user since 2018.
 
 Currently: Operations Manager for ASIC mining hosting company (~2000 units)  
-Looking for: Remote Tech Support II/III or Operations Analyst roles in blockchain, crypto, fintech, infrastructure or cybersecurity
+Looking for: Remote Tech Support II/III or Operations Analyst roles in blockchain, crypto, fintech, infrastructure operations or cybersecurity
 
 ## What I Work With
 
