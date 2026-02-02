@@ -7,7 +7,7 @@ Looking for: Remote Tech Support II/III or Operations Analyst roles in blockchai
 
 ## What I Work With
 
-**Support & Troubleshooting:** Tier II/III escalations, Zendesk/Jira, 94% FCR  
+**Support & Troubleshooting:** Tier II/III escalations, NetSuite/Zendesk/Jira, 94% FCR  
 **Infrastructure:** Linux sysadmin, datacenter ops, fleet management  
 **Scripting:** PowerShell, Bash, log analysis automation  
 **Blockchain:** Node operations (Bitcoin & Monero), DeFi protocols, wallet troubleshooting  
