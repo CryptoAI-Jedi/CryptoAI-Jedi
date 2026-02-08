@@ -32,6 +32,7 @@ Looking for: Remote Tech Support II/III or Operations Analyst roles in blockchai
 ## Certifications
 
 - [Blockchain Basics](https://profiles.cyfrin.io/u/cryptoaijedi/achievements/blockchain-basics) | Cyfrin Updraft (2026)
+- [Web3 Wallet Security Basics](https://profiles.cyfrin.io/u/cryptoaijedi/achievements/web3-wallet-security-basics) | Cyfrin Updraft (2026)
 - [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me) (2026) | API Fundamentals
 - [APISEC Fundamentals 2025](https://www.credly.com/badges/495e4c4b-f7ea-4c62-9064-dc918d5e8171/public_url) (2026) | API Security
 - Currently learning SQL for data analysis, Python for advanced scripting, Grafana/Prometheus for monitoring
