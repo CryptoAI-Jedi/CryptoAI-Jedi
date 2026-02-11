@@ -45,4 +45,4 @@ Looking for: Remote Tech Support II/III or Operations Analyst roles in blockchai
 
 [Telegram: @CryptoAIJedi](https://t.me/CryptoAIJedi) · [Twitter: @CryptoAIJedi](https://twitter.com/CryptoAIJedi)
 
-**Open to remote opportunities** — Let's talk if you need someone who understands both the tech stack and the user experience in crypto/Web3/cybersecurity.
+**Open to remote opportunities or Onsite in the right location.** Let's talk if you need someone who understands both the tech stack and the user experience in crypto/Web3/fintech/cybersecurity.
