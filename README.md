@@ -10,8 +10,8 @@ Looking for: Remote Tech Support II/III or Operations Analyst roles in blockchai
 **Support & Troubleshooting:** Tier II/III escalations, NetSuite/Zendesk/Jira, 94% FCR  
 **Infrastructure:** Linux sysadmin, datacenter ops, fleet management  
 **Scripting:** PowerShell, Bash, log analysis automation  
-**Blockchain:** Node operations (Bitcoin & Monero), DeFi protocols, wallet troubleshooting  
-**Currently Learning:** SQL (transaction/log analysis), Python, Grafana/Prometheus
+**Blockchain:** Node operations (Bitcoin & Monero), DeFi protocols, wallet security & troubleshooting  
+**Currently Learning:** SQL, Python, Grafana/Prometheus
 
 ## Recent Projects
 
