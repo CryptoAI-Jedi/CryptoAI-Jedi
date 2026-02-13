@@ -1,6 +1,6 @@
 # Hey, it's CryptoAI Jedi
 
-**Tech Support Specialist & Operations Manager** 5+ years datacenter operations, node operator since 2021, blockchain user since 2018, ~3 years of formal tech support, TradFi for nearly a decade.
+**Tech Support Specialist & Operations Manager**: 5+ years datacenter operations, node operator since 2021, blockchain user since 2018, ~3 years of formal tech support, TradFi for nearly a decade.
 
 Currently: Operations Manager for ASIC mining hosting company (~2000 units)  
 Looking for: Remote/onsite/hybrid Tech Support II/III or Operations Analyst roles in: blockchain, crypto, Web3, fintech, infrastructure operations, cybersecurity
