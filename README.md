@@ -1,17 +1,17 @@
 # Hey, it's CryptoAI Jedi
 
-**Tech Support Specialist & Operations Manager** building toward Web3 infrastructure roles. 5+ years datacenter operations, node operator since 2021, blockchain user since 2018.
+**Tech Support Specialist & Operations Manager** 5+ years datacenter operations, node operator since 2021, blockchain user since 2018, ~3 years of formal tech support, TradFi for nearly a decade.
 
 Currently: Operations Manager for ASIC mining hosting company (~2000 units)  
-Looking for: Remote or onsite Tech Support II/III or Operations Analyst roles in blockchain, crypto, fintech, infrastructure operations or cybersecurity
+Looking for: Remote/onsite/hybrid Tech Support II/III or Operations Analyst roles in: blockchain, crypto, Web3, fintech, infrastructure operations, cybersecurity
 
 ## What I Work With
 
-**Support & Troubleshooting:** Tier II/III escalations, NetSuite/Zendesk/Jira, 94% FCR  
+**Support & Troubleshooting:** Tier II/III escalations, NetSuite/Zendesk, 94% FCR  
 **Infrastructure:** Linux sysadmin, datacenter ops, fleet management  
 **Scripting:** Bash, basic Python, log analysis automation  
 **Blockchain:** Node operations (Bitcoin & Monero), DeFi protocols, wallet security/troubleshooting 
-**Currently Learning:** SQL, Python, Grafana/Prometheus
+**Currently Learning:** SQL for data analysis, Python for advanced scripting, Grafana/Prometheus
 
 ## Recent Projects
 
