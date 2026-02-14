@@ -1,50 +1,62 @@
-# Hey, it's CryptoAI Jedi
+# Hi there, I'm CryptoAI Jedi ❖
 
-**Tech Support Specialist & Operations Manager**: 5+ years datacenter operations, node operator since 2021, blockchain user since 2018, ~3 years of formal tech support, TradFi for nearly a decade.
+### Technical Operations Lead | Bridging TradFi & DeFi Infrastructure
 
-Currently: Operations Manager for ASIC mining hosting company (~2000 units)  
-Looking for: Remote/onsite/hybrid Tech Support II/III or Operations Analyst roles in: blockchain, crypto, Web3, fintech, infrastructure operations, cybersecurity
+I am a **Technical Operations Specialist** with 15+ years of experience managing high-stakes environments—from **ASIC mining fleets (2,000+ units)** to **commodities trading desks**. I specialize in keeping infrastructure online, automating workflows, and translating complex technical issues for non-technical stakeholders.
 
-## What I Work With
+- **Currently working on:** Automating ASIC health checks with Python & Grafana.
+- **Core Competency:** I don't just fix hardware; I build the systems that prevent it from breaking.
+- **Background:** Former Series 3 Commodities Broker turned Crypto Native (since 2018).
 
-**Support & Troubleshooting:** Tier II/III escalations, NetSuite/Zendesk, 94% FCR  
-**Infrastructure:** Linux sysadmin, datacenter ops, fleet management  
-**Scripting:** Bash, basic Python, log analysis automation  
-**Blockchain:** Node operations (Bitcoin & Monero), DeFi protocols, wallet security/troubleshooting 
-**Currently Learning:** SQL for data analysis, Python for advanced scripting, Grafana/Prometheus
+---
 
-## Recent Projects
+## The Stack
 
-**[Solana Escrow Marketplace](https://github.com/CryptoAI-Jedi/solana-escrow-marketplace)** - Learning project building an escrow dApp on Solana testnet using Rust/Anchor to understand program architecture and security patterns. Currently implementing buyer-seller escrow logic with manual dispute resolution.
+**Infrastructure & Hardware**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ASIC](https://img.shields.io/badge/ASIC_Mining-Hardware-blue?style=for-the-badge)
 
-**[AI Blockchain Automation Agency](https://github.com/CryptoAI-Jedi/ai-blockchain-automation-agency)** - Side business building AI automation and blockchain solutions for healthcare inefficiencies. Early stage development.
+**Automation & Monitoring**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-## What I've Learned
+**Tools & Support**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
 
-**From datacenter work:** Managing thousands of ASIC units means everything fails eventually. I've learned to prioritize tasks based upon impact, use various monitoring systems, systematically read logs, and build runbooks for common issues.
+---
 
-**From tech support work:** thorough documentation of customer issues & troubleshooting steps, cross-functional team collaboration, automation skills, ticketing systems (Netsuite & Zendesk), remote working skills.
+## Featured Projects
 
-**From crypto since 2018:** Regular use of DeFi, staking, multi-chain wallets & wallet security gives me real user context & deep familiarity with onchain flows. I understand the pain points customers face when troubleshooting transaction failures, stuck deposits, or RPC timeouts, along with the importance of operational security.
+### [mining-ops-toolkit](https://github.com/CryptoAI-Jedi/mining-ops-toolkit)
+*A collection of Python and Bash scripts for monitoring ASIC miner health, pool connectivity, and thermal status.*
+- **Tech:** Python, Bash, JSON-RPC
+- **Use Case:** Automating daily checks for 2,000+ machines to reduce manual diagnosis time by 40%.
 
-**From node operations:** Troubleshooting RPC failures taught me to read logs systematically and correlate errors across services. Currently developing monitoring scripts to automate health checks and catch issues before downtime.
+### [node-health-monitor](https://github.com/CryptoAI-Jedi/node-health-monitor)
+*Configuration files for monitoring Bitcoin/Monero node uptime and peer connectivity.*
+- **Tech:** Prometheus, Grafana, Linux Systemd
+- **Use Case:** Real-time observability for mission-critical blockchain infrastructure.
 
-**From TradFi work:** Price risk management principles, servicing enterprise clients in a fast-paced, high stakes environment, settlement/backoffice reconciliation, along with effective communicaton while under extreme pressure. 
+---
 
 ## Certifications
 
-- [Blockchain Basics](https://profiles.cyfrin.io/u/cryptoaijedi/achievements/blockchain-basics) | Cyfrin Updraft (2026)
-- [Web3 Wallet Security Basics](https://profiles.cyfrin.io/u/cryptoaijedi/achievements/web3-wallet-security-basics) | Cyfrin Updraft (2026)
-- [Advanced Web3 Wallet Security](https://profiles.cyfrin.io/u/cryptoaijedi/achievements/advanced-web3-wallet-security) | Cyfrin Updraft (2026)
-- [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me) (2026) | API Fundamentals
-- [APISEC Fundamentals 2025](https://www.credly.com/badges/495e4c4b-f7ea-4c62-9064-dc918d5e8171/public_url) (2026) | API Security
-- CompTIA Trifecta (A+, Network+, Security+): Earned in 2018 (currently expired)
-- Finance background: Futures & Options Merchant (former Series 3)
-- Currently learning SQL for data analysis, Python for advanced scripting, Grafana/Prometheus for monitoring
+| Certification | Issuer | Focus |
+| :--- | :--- | :--- |
+| **Blockchain Basics** | Cyfrin Updraft | Consensus Mechanisms, Cryptography |
+| **Advanced Web3 Wallet Security** | Cyfrin Updraft | Smart Contract Risks, Wallet Ops |
+| **Postman API Fundamentals** | Postman | API Testing, Automation |
+| **APISEC Fundamentals 2025** | APISEC University | API Security, OWASP Top 10 |
+| **CompTIA Network+ / Security+** | CompTIA | Networking, InfoSec (Expired) |
 
+---
 
-## Get in Touch
-
-[Telegram: @CryptoAIJedi](https://t.me/CryptoAIJedi) · [Twitter: @CryptoAIJedi](https://twitter.com/CryptoAIJedi)
-
-**Open to remote opportunities or Onsite in the right location.** Let's talk if you need someone who understands both the tech stack and the user experience in crypto/Web3/fintech/cybersecurity.
+<div align="center">
+  <i>"Reliability is not an accident. It is an engineered outcome."</i>
+</div>
