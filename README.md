@@ -43,7 +43,7 @@ Python/Bash scripts for monitoring ASIC miner health, pool connectivity, and the
 | **Advanced Web3 Wallet Security** | Cyfrin Updraft | Smart contract risks, wallet ops |
 | **Postman API Fundamentals** | Postman | API testing, automation |
 | **APISEC Fundamentals 2025** | APISEC University | API security, OWASP |
-| **CompTIA Network+ / Security+ (Expired)** | CompTIA | Networking, InfoSec |
+| **CompTIA Network+ / Security+ (Expired, Knowledge Current)** | CompTIA | Networking, InfoSec |
 
 ## Contact
 - **Email:** cryptoaijedi@proton.me
