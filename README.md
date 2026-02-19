@@ -40,7 +40,7 @@ I am a **Technical Operations Specialist** with 15+ years of experience managing
 
 ### [node-health-monitor](https://github.com/CryptoAI-Jedi/node-health-monitor)
 *Configuration files for monitoring Bitcoin/Monero node uptime and peer connectivity.*
-- **Tech:** Prometheus, Grafana, Linux Systemd
+- **Tech:** Prometheus, Grafana, Linux Systemd, Docker
 - **Use Case:** Real-time observability for mission-critical blockchain infrastructure.
 
 ---
