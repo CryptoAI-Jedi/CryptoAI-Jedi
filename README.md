@@ -24,17 +24,17 @@ I’m a technical operations specialist focused on reliability, incident respons
 
 ## Featured Projects
 
-### [mining-ops-toolkit](https://github.com/CryptoAI-Jedi/mining-ops-toolkit)
-Python/Bash scripts for monitoring ASIC miner health, pool connectivity, and thermal status.
-
-- **Tech:** Python, Bash, JSON-RPC
-- **Use case:** Standardize daily fleet checks and reduce manual diagnosis time at scale
-
 ### [node-health-monitor](https://github.com/CryptoAI-Jedi/node-health-monitor)
 Monitoring config for Bitcoin/Monero node uptime and peer connectivity.
 
 - **Tech:** Prometheus, Grafana, Docker, systemd, Linux
 - **Use case:** Real-time visibility into node health + faster detection of connectivity/uptime issues
+
+### [mining-ops-toolkit](https://github.com/CryptoAI-Jedi/mining-ops-toolkit)
+Python/Bash scripts for monitoring ASIC miner health, pool connectivity, and thermal status.
+
+- **Tech:** Python, Bash, JSON-RPC
+- **Use case:** Standardize daily fleet checks and reduce manual diagnosis time at scale
 
 ## Certifications
 | Certification | Issuer | Focus |
