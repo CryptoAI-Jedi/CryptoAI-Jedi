@@ -2,7 +2,7 @@
 
 ### Technical Operations Lead | Web3 Infrastructure | Parallel-track: Junior SRE + Production/Technical Support
 
-I’m a technical operations specialist focused on reliability, incident response, automation, and clear stakeholder communication,from ASIC mining fleets (2,000+ units) to enterprise security support.
+I’m a technical operations specialist focused on reliability, incident response, automation, and clear stakeholder communication, from ASIC mining fleets (2,000+ units) to enterprise security support.
 
 - **Target roles (next 30 days):** Junior SRE (preferred) + Production Support / Technical Support Engineer (parallel track)
 - **Current:** Ops Manager supporting 2,000+ units across 4+ sites with ~98% uptime and 20+ client stakeholders
