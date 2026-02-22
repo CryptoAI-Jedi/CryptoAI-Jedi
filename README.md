@@ -1,8 +1,8 @@
-# Hi there, I’m CryptoAI Jedi ❖
+# Hi there, I'm CryptoAI Jedi ❖
 
 ### Technical Operations Lead | Web3 Infrastructure | Parallel-track: Junior SRE + Production/Technical Support
 
-I’m a technical operations specialist focused on reliability, incident response, automation, and clear stakeholder communication, from ASIC mining fleets (2,000+ units) to enterprise security support.
+I'm a technical operations specialist focused on reliability, incident response, automation, and clear stakeholder communication, from ASIC mining fleets (2,000+ units) to enterprise security support.
 
 - **Target roles (next 30 days):** Junior SRE (preferred) + Production Support / Technical Support Engineer (parallel track)
 - **Current:** Ops Manager supporting 2,000+ units across 4+ sites with ~98% uptime and 20+ client stakeholders
@@ -39,10 +39,11 @@ Python/Bash scripts for monitoring ASIC miner health, pool connectivity, and the
 ## Certifications
 | Certification | Issuer | Focus |
 | :--- | :--- | :--- |
-| **Blockchain Basics** | Cyfrin Updraft | Consensus, Cryptography |
-| **Advanced Web3 Wallet Security** | Cyfrin Updraft | Smart contract risks, wallet ops |
-| **Postman API Fundamentals** | Postman | API testing, automation |
-| **APISEC Fundamentals 2025** | APISEC University | API security, OWASP |
+| [**Blockchain Basics**](https://profiles.cyfrin.io/u/cryptoaijedi/achievements/blockchain-basics) | Cyfrin Updraft (2026) | Consensus, Cryptography |
+| [**Web3 Wallet Security Basics**](https://profiles.cyfrin.io/u/cryptoaijedi/achievements/web3-wallet-security-basics) | Cyfrin Updraft (2026) | Wallet fundamentals, key management |
+| [**Advanced Web3 Wallet Security**](https://profiles.cyfrin.io/u/cryptoaijedi/achievements/advanced-web3-wallet-security) | Cyfrin Updraft (2026) | Smart contract risks, wallet ops |
+| [**Postman API Fundamentals Student Expert**](https://badges.parchment.com/public/assertions/gKTWGcz_QUGg72dVnerfPA?identity__email=cryptoaijedi@proton.me) | Postman (2026) | API testing, automation |
+| [**APISEC Fundamentals 2025**](https://www.credly.com/badges/495e4c4b-f7ea-4c62-9064-dc918d5e8171/public_url) | APISEC University (2026) | API security, OWASP |
 | **CompTIA Network+ / Security+ (Expired, Knowledge Current)** | CompTIA | Networking, InfoSec |
 
 ## Contact
