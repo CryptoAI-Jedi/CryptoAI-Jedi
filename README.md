@@ -30,6 +30,12 @@ Monitoring config for Bitcoin/Monero node uptime and peer connectivity.
 - **Tech:** Prometheus, Grafana, Docker, systemd, Linux
 - **Use case:** Real-time visibility into node health + faster detection of connectivity/uptime issues
 
+### [wallet-ops-sentinel](https://github.com/CryptoAI-Jedi/wallet-ops-sentinel)
+Python-based wallet monitoring tool built around exchange-grade ops principles to detect anomalies early, log everything, and escalate fast.
+
+- **Tech:** Python, APIs
+- **Use case:** Monitors BTC and EVM wallet addresses using free public APIs. Flags large outflows, interactions with sanctioned or mixer contracts, and writes structured alerts to a JSON log for ops review.
+
 ### [mining-ops-toolkit](https://github.com/CryptoAI-Jedi/mining-ops-toolkit)
 Python/Bash scripts for monitoring ASIC miner health, pool connectivity, and thermal status.
 
