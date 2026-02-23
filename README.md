@@ -6,7 +6,7 @@ I'm a technical operations specialist focused on reliability, incident response,
 
 - **Target roles:** Junior SRE, Crypto Wallet Ops, Trading Ops, Production Support / Technical Support Engineer
 - **Current:** Ops Manager supporting 2,000+ units across 4+ sites with ~98% uptime and 20+ client stakeholders
-- **What I do best:** Troubleshoot fast, automate repeat work, document runbooks, and prevent repeat incidents
+- **What I do best:** I automate the toil, monitor the signal, document the fix, and the incident doesn't repeat.
 - **Background:** Regulated environments (CFTC/NFA) + crypto-native since 2018 (nodes, DeFi, wallet ops)
 
 ## Availability / Work Setup
