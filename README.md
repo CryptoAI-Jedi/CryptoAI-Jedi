@@ -1,6 +1,6 @@
 # Hi there, I'm CryptoAI Jedi ❖
 
-### Technical Operations Lead | Web3 Infrastructure | Parallel-track: Junior SRE + Production/Technical Support
+### Technical Operations Lead | Web3 Infrastructure | Aspiring: Junior SRE, Crypto Wallet/Trading Ops, Production/Technical Support
 
 I'm a technical operations specialist focused on reliability, incident response, automation, and clear stakeholder communication, from ASIC mining fleets (2,000+ units) to enterprise security support.
 
