@@ -1,109 +1,83 @@
-Hi there, I'm CryptoAI Jedi ❖
-=============================
+# CryptoAI Jedi
 
-### Technical Operations Lead | Web3 Infrastructure | AI/LLM Security & Support Automation | Junior SRE / Wallet Ops / Technical Support
+Reliability monitoring, wallet operations tooling, and AI-assisted automation for crypto infrastructure. Currently running ops for a 2,000-unit ASIC fleet at ~98% uptime across multiple sites.
 
-I'm a technical operations specialist focused on reliability, incident response, API troubleshooting, wallet operations, and support automation. My background spans ASIC mining fleets, enterprise security support, Web3 infrastructure, and hands-on projects exploring AI/LLM security workflows.
+Background runs in an unusual order: eight years as a futures broker (NFA Series 3, expired) → 2.5 years in enterprise endpoint security at ESET → mining infrastructure operations. Crypto-native since 2018; building AI agent systems on VPS since 2024.
 
-* **Target roles:** Junior SRE, Technical Product Support Engineer, Crypto Wallet Ops, Trading Ops, Production Support / Technical Support Engineer
-* **Current:** Ops Manager supporting 2,000+ units across 4+ sites with ~98% uptime and 20+ client stakeholders
-* **What I do best:** I sit at the intersection of infrastructure reliability, onchain operations, and secure automation: monitoring node health, hardening wallet pipelines, analyzing API/security signals, and scripting my way out of manual work.
-* **Background:** Regulated environments (CFTC/NFA) + crypto-native since 2018 (nodes, DeFi, wallet ops)
+## What I work with
 
-Availability / Work Setup
--------------------------
+**Languages:** Python, Bash, PowerShell. SQL at working level.
 
-* **Location:** USA (currently) | Time zone: US Eastern (ET)
-* **Engagement:** Open to contract (1099) / B2B and full-time
-* **Remote/Relocation:** Open to global remote and relocation to most countries
+**Infrastructure:** Linux (Debian / Arch / RHEL), Windows Server, Docker, systemd, networking (TCP/IP, DNS, DHCP, firewalls), Tailscale, WireGuard.
 
-Core Skills
------------
+**Observability:** Prometheus, Grafana, structured logging, metric-driven alerting, incident escalation patterns.
 
-* **Infra/Ops:** Linux (Debian/RHEL/Arch), Windows Server, networking (TCP/IP, DNS, DHCP, firewalls), hardware diagnostics, thermal management
-* **Automation:** Bash/Python scripting, PowerShell, ops automation, log analysis, structured alerting
-* **Monitoring/Observability:** Prometheus, Grafana, Docker, systemd, metrics-driven troubleshooting
-* **Support/Incident:** Zendesk / NetSuite / Jira, remote support, incident updates, status reporting, runbooks/SOPs
-* **API Troubleshooting:** Postman, cURL, authentication, headers, JSON payloads, HTTP status codes, webhook testing
-* **Security (support context):** firewall + IDS/IPS concepts, 2FA, secure troubleshooting workflows, API security fundamentals, customer-data handling
-* **AI/LLM Security:** prompt injection basics, OWASP LLM/API risks, RAG/tool-use risk awareness, secure AI-assisted support workflows
-* **Compliance:** documentation controls, audits, regulated-environment discipline
+**APIs:** Postman, cURL, REST/JSON, OAuth/JWT, webhook signing, HTTP debugging.
 
-AI / LLM Security Focus
------------------------
+**Web3:** Bitcoin, EVM, and Solana —> node ops, multi-signature wallet operations, onchain investigation with Etherscan, Solscan, Mempool, Tenderly, and Blockstream.
 
-I'm building practical depth in AI/LLM security from an operator's perspective: how AI systems fail in real workflows, how support teams safely use LLMs, and how automation can improve triage without leaking secrets or creating unsafe actions.
+**AI / agents:** OpenRouter, LiteLLM proxy, multi-agent orchestration on VPS, Docker backend, prompt engineering, RAG fundamentals.
 
-Current focus areas:
+**Support tooling:** Zendesk, Jira, Bomgar, NetSuite.
 
-* **LLM application security:** prompt injection, insecure output handling, data leakage, tool/plugin abuse, excessive agency
-* **API security:** authentication, authorization, rate limits, webhooks, input validation, OWASP API risks
-* **Support automation safety:** human-in-the-loop workflows, audit logs, escalation boundaries, safe customer-data handling
-* **Web3 + AI risk:** wallet monitoring, transaction alerting, suspicious-address screening, AI-assisted triage for onchain incidents
-* **Operational AI tooling:** using LLMs to summarize incidents, draft runbooks, enrich tickets, and accelerate root-cause analysis
+## Projects
 
-Featured Projects
------------------
+### [wallet-ops-sentinel](https://github.com/CryptoAI-Jedi/wallet-ops-sentinel)
 
-### node-health-monitor
+Multi-chain wallet monitoring with sanctioned-address screening and structured alert envelopes designed to feed ticketing, SIEM, or LLM-assisted incident summaries.
 
-Production-style observability stack for Bitcoin/Monero node uptime, peer connectivity, and infrastructure health.
+**Tech:** Python, PyYAML, Etherscan API, Blockstream API.
 
-* **Tech:** Prometheus, Grafana, Docker, systemd, Linux
-* **Use case:** Real-time visibility into node health, faster detection of connectivity issues, and clearer escalation data for SRE/support workflows
+**Built for:** Detecting large outflows from monitored addresses; flagging interactions with sanctioned wallets and known mixer contracts; producing JSON alert records that downstream systems can consume without further parsing.
 
-### wallet-ops-sentinel
+**What I learned:** Bitcoin's UTXO model and EVM's account model need genuinely different "what just happened" logic — you can't fake one with the other. Structuring alert events for consumers I don't control (some hypothetical SIEM, some hypothetical LLM summarizer) was harder than the detection itself; the schema is the contract.
 
-Multi-chain wallet monitoring tool with OFAC screening, structured JSON alert logs, and AI-assisted incident triage potential.
+### [node-health-monitor](https://github.com/CryptoAI-Jedi/node-health-monitor)
 
-* **Tech:** Python, PyYAML, Etherscan API, Blockstream API
-* **Use case:** Detect large outflows, flag sanctioned-address interactions, and produce structured alerts that can feed ticketing, SIEM, or LLM-assisted incident summaries
+Production-style observability stack for Bitcoin and Monero node uptime, peer connectivity, and infrastructure health.
 
-### mining-ops-toolkit
+**Tech:** Prometheus, Grafana, Docker, systemd, Linux.
 
-Python/Bash scripts for monitoring ASIC miner health, pool connectivity, and thermal status.
+**Built for:** Replacing manual SSH-and-check workflows with dashboards and metric-based alerting. Real-time visibility into node operations with escalation-grade data, not just "is this thing reachable."
 
-* **Tech:** Python, Bash, JSON-RPC
-* **Use case:** Standardize daily fleet checks, detect degraded miners faster, and reduce manual diagnosis time at scale
+### [mining-ops-toolkit](https://github.com/CryptoAI-Jedi/mining-ops-toolkit)
 
-### base-escrow
+Daily-driver scripts for ASIC fleet monitoring: miner health, pool connectivity, thermal status.
 
-Commerce-focused escrow MVP on Base Sepolia for marketplace and milestone payments.
+**Tech:** Python, Bash, JSON-RPC.
 
-* **Tech:** Python, Solidity / smart contract tooling, Base Sepolia, Chainlink CRE
-* **Use case:** Explore payment escrow, dispute events, external resolution workflows, and transparent settlement logic for marketplace transactions
-* **Status:** Work in progress
+**Built for:** Standardizing fleet checks across thousands of units where 5% offline at any given moment is the steady state, not an emergency. Structured output feeds log aggregation; degraded-miner detection runs against historical baselines instead of arbitrary thresholds.
 
-### llm-security-lab
+**What I learned:** "Is this thing okay?" logic at fleet scale has to handle missing data as a normal case, not an error case. Otherwise your alerts page you for the network, not the miners.
 
-Hands-on lab for exploring AI/LLM security risks in support and operations workflows.
+### [base-escrow](https://github.com/CryptoAI-Jedi/base-escrow)
 
-* **Tech:** Python, Markdown, JSON, API testing patterns
-* **Use case:** Demonstrate prompt injection, data leakage, unsafe tool-use scenarios, and safer human-in-the-loop support automation patterns
-* **Status:** Planned / in progress
+Marketplace escrow MVP on Base Sepolia. Explores Chainlink CRE for dispute resolution events and transparent settlement logic.
 
-Currently Building / Learning
------------------------------
+**Tech:** Solidity, Python, Chainlink CRE, Base Sepolia.
 
-* AI-assisted support workflows for ticket triage, incident summaries, and runbook generation
-* LLM security labs focused on prompt injection, data leakage, unsafe tool use, and API abuse patterns
-* API troubleshooting workflows using Postman, cURL, structured logs, and webhook testing
-* Web3 monitoring tools for wallet activity, node health, and suspicious onchain behavior
-* Practical SRE habits: observability, alert quality, escalation clarity, incident documentation, and automation-first operations
+**Status:** Work in progress — current focus has shifted to other projects.
 
-Certifications
---------------
+### [dev-cheatsheets](https://github.com/CryptoAI-Jedi/dev-cheatsheets)
 
-| Certification | Issuer | Focus |
-| --- | --- | --- |
-| **Blockchain Basics** | Cyfrin Updraft (2026) | Consensus, cryptography |
-| **Web3 Wallet Security Basics** | Cyfrin Updraft (2026) | Wallet fundamentals, key management |
-| **Advanced Web3 Wallet Security** | Cyfrin Updraft (2026) | Smart contract risks, wallet ops |
-| **Postman API Fundamentals Student Expert** | Postman (2026) | API testing, automation |
-| **APISEC Fundamentals 2025** | APISEC University (2026) | API security, OWASP API risks |
-| **CompTIA Network+ / Security+ (Expired, Knowledge Current)** | CompTIA | Networking, InfoSec |
+Field-ready CLI / DevOps / Web3 reference. Personal notes that became shareable.
 
-Contact
--------
+## Currently building
 
-* **Email:** cryptoaijedi@proton.me
+Most of my active work lives in private repositories — AI agent infrastructure on VPS (multi-agent orchestration with shared memory, tool routing, and persistent execution), prediction-market trading automation, and a SaaS product in the operations-tooling space. The public projects above are extracted utilities and reference work from this broader stack.
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Postman API Fundamentals Student Expert | Postman | 2026 |
+| API Security Fundamentals | APISEC University | 2026 |
+| Blockchain Basics | Cyfrin Updraft | 2026 |
+| Web3 Wallet Security Basics & Advanced | Cyfrin Updraft | 2026 |
+| CompTIA A+, Network+, Security+ | CompTIA | 2018 (expired, knowledge current) |
+
+## Contact
+
+[cryptoaijedi@proton.me](mailto:cryptoaijedi@proton.me)
+
+USA · US Eastern · Open to global remote and relocation
